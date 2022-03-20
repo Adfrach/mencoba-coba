@@ -4,6 +4,7 @@
   <test thread-count="2" name="Test">
     <classes>
       <class name="qaautomation.january2022.GraphQLTest"/>
+      <class name="qaautomation.january2022.GraphQLTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
